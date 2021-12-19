@@ -1,5 +1,5 @@
 category: Lua
-requires: lua54-lpeg lua52
+requires: lua52 lua52-lpeg
 sdesc: "David Kolf's JSON module for Lua"
 ldesc: "dkjson is a module for encoding and decoding JSON data. It supports UTF-8.
 
